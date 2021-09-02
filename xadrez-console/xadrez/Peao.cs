@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿using xadrez_console.Tabuleiro;
 namespace xadrez_console.xadrez {
-    class Peao {
+    class Peao : Peca {
+        public Peao(MesaDeTabuleiro tab, Cor cor) : base(tab, cor) {
+        }
+        public override string ToString() {
+            return "P";
+        }
     }
 }
