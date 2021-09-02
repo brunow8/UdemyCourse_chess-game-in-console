@@ -5,9 +5,8 @@ namespace xadrez_console {
         static void Main(string[] args) {
 
             var tab = new MesaDeTabuleiro(8, 8);
-            Console.ReadLine();
 
-
+            Tela.imprimirTabuleiro(tab);
         }
     }
 }
