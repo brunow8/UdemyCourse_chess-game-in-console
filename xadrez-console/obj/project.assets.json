@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Barbosa\\Desktop\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno Barbosa\\Desktop\\Cursos UDEMY\\C# Nélio Alves\\Exercicios\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
       "projectName": "xadrez-console",
-      "projectPath": "C:\\Users\\Bruno Barbosa\\Desktop\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+      "projectPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Cursos UDEMY\\C# Nélio Alves\\Exercicios\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
       "packagesPath": "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Barbosa\\Desktop\\xadrez-console\\xadrez-console\\obj\\",
+      "outputPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Cursos UDEMY\\C# Nélio Alves\\Exercicios\\xadrez-console\\xadrez-console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno Barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config",

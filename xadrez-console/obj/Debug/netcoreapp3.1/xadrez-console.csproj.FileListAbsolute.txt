@@ -12,3 +12,17 @@ C:\Users\Bruno Barbosa\Desktop\xadrez-console\xadrez-console\obj\Debug\netcoreap
 C:\Users\Bruno Barbosa\Desktop\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.dll
 C:\Users\Bruno Barbosa\Desktop\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.pdb
 C:\Users\Bruno Barbosa\Desktop\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.exe
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.dll.config
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.deps.json
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.json
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.dev.json
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.dll
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.pdb
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfo.cs
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.dll
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.pdb
+C:\Users\Bruno Barbosa\Desktop\Cursos UDEMY\C# Nélio Alves\Exercicios\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
