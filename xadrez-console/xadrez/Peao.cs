@@ -1,8 +1,7 @@
 ﻿using xadrez_console.Tabuleiro;
 namespace xadrez_console.xadrez {
     class Peao : Peca {
-        public Peao(MesaDeTabuleiro tab, Cor cor, PartidaDeXadrez partida) : base(tab, cor) {
-            this.partida = partida;
+        public Peao(MesaDeTabuleiro tab, Cor cor) : base(tab, cor) {
         }
 
         public override string ToString() {
