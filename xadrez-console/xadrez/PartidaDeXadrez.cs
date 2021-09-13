@@ -47,11 +47,15 @@ namespace xadrez_console.xadrez {
             }
             if (estaEmXeque(adversaria(JogadorAtual))) {
                 Xeque = true;
-            } else { Xeque = false;
+            } else { 
+                Xeque = false;
             }
-            Turno++;
-            mudaJogador();
-
+            if (testeXequeMate(adversaria(JogadorAtual))) {
+                terminada = true;
+            } else {
+                Turno++;
+                mudaJogador();
+            }
         }
         public void validarPosicaoOrigem(Posicao pos) {
             if(tab.peca(pos) == null){
@@ -123,6 +127,30 @@ namespace xadrez_console.xadrez {
                 }
             }
             return false;
+        }
+        public bool testeXequeMate(Cor cor) {
+            if (!estaEmXeque(cor)) {
+                return false;
+            }
+            foreach (var item in pecasEmJogo(cor)) {
+                bool[,] mat = item.movimentosPossiveis();
+                for (int i = 0; i < tab.Linhas; i++) {
+                    for (int j = 0; j < tab.Colunas; j++) {
+                        if (mat[i, j]) {
+                            Posicao origem = item.Posicao;
+                            Posicao destino = new Posicao(i, j);
+                            Peca pecacapturada = executaMovimento(origem, destino);
+                            bool testeXeque = estaEmXeque(cor);
+                            desfazMovimento(origem, destino, pecacapturada);
+                            if (!testeXeque) {
+                                return false;
+                            }
+                        }
+                    }
+
+                }
+            }
+            return true;
         }
         public void colocarNovaPeca(char coluna, int linha, Peca peca) {
             tab.colocarPeca(peca, new PosicaoXadrez(coluna, linha).toPosicao());
